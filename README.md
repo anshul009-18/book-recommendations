@@ -1,4 +1,6 @@
-# 📚 Book Recommender System
+# 📚 Book Recommender 
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bookrecommandations.streamlit.app/)
 
 A **web-based book recommendation system** built using **Streamlit** and a **K-Nearest Neighbors (KNN)** model.  
 This application provides **personalized book recommendations** using **collaborative filtering**, helping users discover new books they might enjoy based on user rating patterns.
